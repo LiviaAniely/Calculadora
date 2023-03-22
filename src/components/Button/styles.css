@@ -1,0 +1,12 @@
+button {
+    padding: 20px;
+    border: 1px solid #CDCDCD;
+    background-color: #AAAAFF;
+    font-size: 24px;
+    font-weight: 700;
+    flex: 1;
+}
+
+button:hover{
+    opacity: 0.6;
+}
